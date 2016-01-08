@@ -1,0 +1,28 @@
+name: Tesla-X5
+favicon: null
+layout_spectrum: 0.6735921858344227
+typography_spectrum: 0.47042848635464907
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3271894499193877
+  lightness: 0.672224520239979
+  saturation: 0.3972192322835326
+  rhythmicContrast: 0.5299533065408468
+purpose: []
